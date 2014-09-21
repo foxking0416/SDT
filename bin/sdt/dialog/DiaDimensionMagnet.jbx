@@ -1,0 +1,16 @@
+[PropertyInfo]
+_boxEndPt,javax.swing.Box,false,false, , ,false,<default>
+_boxEndPtY,javax.swing.Box,false,false, , ,false,<default>
+_boxStartPt,javax.swing.Box,false,false, , ,false,<default>
+_boxTitle,javax.swing.Box,false,false, , ,false,<default>
+_jLabelBlank,javax.swing.JLabel,false,false, , ,false,<default>
+_jLabelEndPt,javax.swing.JLabel,false,false, , ,false,<default>
+_jLabelStartPt,javax.swing.JLabel,false,false, , ,false,<default>
+_jLabelX,javax.swing.JLabel,false,false, , ,false,<default>
+_jLabelY,javax.swing.JLabel,false,false, , ,false,<default>
+_jPanelCoordinate,javax.swing.JPanel,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

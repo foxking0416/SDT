@@ -1,0 +1,1 @@
+D:\Roger_Program\JBuilder2006\jdk1.5\bin\native2ascii.exe -encoding Big5 D:\Roger_Folder\Coding\Java\SDT\FEA_SDT\src\sdt\property\InterfaceChineseBig5.properties.Big5 D:\Roger_Folder\Coding\Java\SDT\FEA_SDT\src\sdt\property\InterfaceChineseBig5.properties

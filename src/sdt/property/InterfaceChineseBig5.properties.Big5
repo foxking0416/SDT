@@ -1,0 +1,215 @@
+
+MenuFile = 檔案
+MenuModule = 模組
+MenuItemPreliminaryDesign = 初始設計
+MenuItemConeModule = 振模設計
+MenuItemVCMModule = 音圈馬達設計
+MenuItemDriverModule = 單體設計
+MenuItemEnclosureModule = 腔體設計
+MenuItemNew = 新增檔案
+MenuItemOpen      =開啟舊檔
+MenuItemRecentFiles = 最近文件
+MenuItemSave      =儲存檔案
+MenuItemSaveAs   =另存新檔
+MenuItemExportInp   = 匯出檔案到Abacus
+MenuItemExportMac =匯出檔案到ANSYS
+
+MenuItemExit     = 離開
+
+    MenuView                    =檢視
+MenuItemRotate                  =旋轉
+MenuItemPan                     =平移
+MenuItemZoomIn                  =放大
+MenuItemZoomOut                 =縮小
+MenuItemFitItAll                =縮放適中
+MenuItemXYView                  =XY方向檢視 
+MenuItemYZView                  =YZ方向檢視
+MenuItemXZView                  =XZ方向檢視
+MenuItemIsoView                 =等角方向檢視 
+    MenuShadingMode             =上色模式
+MenuItemShading                 =塗彩 
+MenuItemShadingWithEdges        =塗彩及邊界 
+MenuItemWireframe               =線架構
+    
+    
+MenuComputation                 = 計算
+MenuItemConeSolving             = 振模求解
+MenuItemConeAirSolving          = 振模+空氣 求解
+MenuItemVCMSolving              = 音圈馬達求解
+MenuItemKxCurve                 = Kx 曲線
+MenuItemBLCurve                 = BL 曲線
+MenuItemEMMA                    = EMMA 求解
+MenuItemStepFrame               = Step/Frame
+
+    
+    
+
+MenuTool                       = 工具
+MenuLanguage                   = 語言
+MenuEnglish                    = 英文
+MenuChinese                    = 中文
+MenuOptions                    = 選項
+
+MenuHelp                       = 說明
+MenuAboutSDT                   = 關於 SDT
+
+    
+TitleDiaMeshDenstiy							=網格密度
+TitleCorrugation                =波紋
+TitleCapDimensionXZ             = Cap尺寸_XZ方向
+TitleCapDimensionYZ             = Cap尺寸_YZ方向
+TitleSurroundDimensionXZ        = Surround尺寸_XZ方向
+TitleSurroundDimensionYZ        = Surround尺寸_YZ方向
+TitleTransitionDimensionXZ      = Transition尺寸_XZ方向
+TitleTransitionDimensionYZ      = Transition尺寸_YZ方向
+TitleDiaphragmDimensionXZ       = Diaphragm尺寸_XZ方向
+TitleDiaphragmDimensionYZ       = Diaphragm尺寸_YZ方向
+TitleCoilDimensionXZ            = Coil 尺寸_XZ方向
+TitleCoilDimensionYZ            = Coil 尺寸_YZ方向
+TitleDimensionXZ                = 尺寸-XZ方向
+TitleDimensionYZ                = 尺寸-YZ方向
+TitleResultStepFrame            = Step/Frame
+TitleEMMA                       = EMMA 求解 SPL
+TitleSolvingProgress            = 求解進度
+TitlePlot                       = 結果圖表
+
+TitleThickness                  = 厚度
+TitleMaterial                   = 材料性質
+TitleCapThickness               = Cap厚度
+TitleTransitionThickness        = Transition厚度
+TitleDiaphragmThickness         = Diaphragm厚度
+TitleSurroundThickness          = Surround厚度
+TitleCoilThickness              = Coil厚度
+TitleBobbinThickness            = Bobbin厚度
+TitleCoilAndBobbinThickness     = Coil & Bobbin厚度
+
+
+TitleOption                     = 選項
+OptionNodeColor                 = 顏色
+OptionTabColorBasicObject       = 基礎設定
+OptionTabColorDrawingObject     = 繪圖元件
+OptionButtonReset               = 重設出廠設定
+OptionNodeFEMSettinig           = FEM 設定
+
+
+
+LabelSelectedMaterial           = 選擇材料
+
+
+NodeAsmSpeaker                 = 喇叭
+
+NodeAsmCone                    = 振模
+NodeAsmVCM                     = 音圈馬達
+NodeAsmFrame                   = 框架
+NodeAsmEnclosure               = 腔體
+NodeAsmAir                     = 空氣
+
+NodePrtCap                     = Cap
+NodePrtTransition              = Transition
+NodePrtDiaphragm               = Diaphragm
+NodePrtSurround                = Surround
+
+NodeSketchTop                  = 上視圖
+NodeSketchSection              = 側視圖
+NodeSketchSection1             = 側視圖1
+NodeSketchSection2             = 側視圖2
+
+NodePrtMagnet                  = 磁鐵
+NodePrtTopPlate                = 上板(華斯)
+NodePrtMagnetTop               = 上磁鐵
+NodePrtMagnetOuter             = 外磁鐵
+NotePrtBobbin                  = 圓筒
+NotePrtCoil                    = 線圈
+
+NodeAsmPrtYoke                 = 對軛
+NodePrtBase                    = 基礎
+
+NodePrtStage1                  = 階段1
+NodePrtStage2                  = 階段2
+
+
+dia_ButtonOk = 確定
+dia_ButtonCancel = 取消
+dia_ButtonApply = 套用
+
+
+dia_MessageTitle = 警告!!
+dia_AskTitle = 是否確認??
+
+
+dia_MessageStrIntegerIsNotAllowedLowerThan1 = 不允許輸入低於1的整數
+dia_MessageStrIntegerIsNotAllowedLowerThan0 = 不允許輸入低於0的整數
+dia_MessageStrDoubleIsNotAllowedLowerThan0 = 不允許輸入低於0的Double值
+dia_MessageStrCountCantBeOddNumber = 周邊數量總和不可為奇數
+dia_MessageStrInputOutOfConstraint = 輸入值超過幾何限制
+dia_MessageStrInvalidInputValue = 無效的輸入值	
+dia_MessageStrIfReallyWantToOpenFile = 是否確定要開啟舊檔?
+dia_MessageStrIfReallyWantToOverWriteFile = 檔案已經存在，是否確定取代現有檔案?
+dia_MessageStrIfResetFactorySetting = 是否重設出廠值?
+dia_MessageStrNoFEMResult = 無有限元素之結果
+
+
+SolvingProgressInputFileExported = 幾何資料已經匯出 ...
+SolvingProgressActivatingAbaqus  = 啟動FEM運算元進行求解 ...
+SolvingProgressListenLogFile     = FEM運算元進行求解中 ...
+SolvingProgressRetrivingData     = 運算完成, 資料整理中 ...
+SolvingProgressGetDataAndShow    = 資料匯整完畢, 顯示模態No.1 ...
+
+
+    PopupMenuCone                   = 振模
+    
+PopupMenuSurround                   = Surround
+    PopupMenuSurroundSingleArc          = 單弧
+    PopupMenuSurroundDoubleArc          = 雙弧
+    
+PopupMenuDiaphragm                  = Diaphragm
+    PopupMenuDiaphragmType1             = 類型1
+    PopupMenuDiaphragmType2             = 類型2
+    PopupMenuDiaphragmNone              = 無
+    
+PopupMenuTransition                 = Transition
+PopupMenuCap                        = Cap
+		PopupMenuCapRegular                 = 一般型
+		PopupMenuCapCapsule                 = 膠囊型
+		PopupMenuCapRoundCut                = 圓切邊型
+
+
+    PopupMenuPart                   = Part       
+PopupMenuMaterial                   = 材料
+PopupMenuThickness                  = 厚度
+    PopupMenuSectionSelect          = Section Select
+PopupMenuRound                      = 圓型
+PopupMenuRunway                     = 跑道型
+
+    PopupMenuSketchTop              = 上視圖
+PopupMenuMeshDensity                = 網格密度
+PopupMenuCorrugation                = 波紋
+
+    PopupMenuVCM                    = VCM
+PopupMenuMagnet                     = 磁鐵
+PopupMenuTopPlate                   = 上板(華斯)
+PopupMenuMagnetTop                  = 上磁鐵
+PopupMenuMagnetOuter                = 外磁鐵
+PopupMenuBobbin                     = 圓筒
+PopupMenuCoil                       = 線圈	
+	  PopupMenuCoilType1              = 類型1
+		PopupMenuCoilType2              = 類型2
+
+    PopupMenuYoke                   = Yoke                
+PopupMenuStage1                     = 階段1
+PopupMenuStage2                     = 階段2
+
+    PopupMenuSection                = 剖面
+PopupMenuCapDimension               = Cap尺寸
+PopupMenuSurroundDimension          = Surround尺寸
+PopupMenuTransitionDimension        = Transition尺寸
+PopupMenuDiaphragmDimension         = Diaphragm尺寸
+PopupMenuCoilDimension              = Coil 尺寸
+PopupMenuMagnetDimension            = Magnet 尺寸
+PopupMenuMagnetTopDimension         = MagnetTop 尺寸
+PopupMenuMagnetOuterDimension       = MagnetOuter 尺寸
+PopupMenuTopPlateDimension          = Top Plate尺寸
+PopupMenuYokeBaseDimension          = Yoke Base 尺寸
+PopupMenuYokeStage1Dimension        = Yoke Stage1 尺寸
+PopupMenuYokeStage2Dimension        = Yoke Stage2 尺寸
+PopupMenuSelectType                 = 選擇種類
